@@ -1,5 +1,13 @@
+html, body {
+    background-color: #eee;
+}
 .header {
     margin-top: 20%;
     text-align: center;
+    width: 100%;
+}
+.teambox {
+    background-color: #ddd;
+    min-height: 80px;
     width: 100%;
 }
